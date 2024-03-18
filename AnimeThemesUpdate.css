@@ -5,7 +5,7 @@
 * @description An easily customizable and automatically updating theme
 * @invite FdZhbjY
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
-* @updateUrl https://blacktime22.github.io/-themes/AnimeThemesUpdate.css
+* @updateUrl https://raw.githubusercontent.com/blacktime22/-themes/main/AnimeThemesUpdate.css
 */
 
 @import url(https://blacktime22.github.io/-themes/build/main.css);
@@ -21,22 +21,22 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://lh3.googleusercontent.com/pw/AP1GczPSEyo3X9JWIL1pplMgU0lfWJwF5qqraCBGd4RCgZvNhQoQgfm28LeUAb6WgwSpb5Rkl1WkJegWeIYzKLgT4erjTsGpWEsZQMq3vqxexsw_dt5Arc9r7gUwLTBlE3pEwe-J9NRYMEZTeBGe_Jmuceyw0qhGd549vLRL6-25-G_JEc_DIjDFg54Iawl9lFrIFJaCH7dMclEnl4CMtgvjAvdVH2SvizS_lLnWs5hNej-Xfv28rhzgzXf3qcxcQINGsj-NfrM49Q4K8V1MwYjfdyyLP6YBrAz5-udPIanNsyWcco-AmeBEQUcBnfzHGyZpKHqxQA3zD84E-SGpQjksEbWTbbg2yDbomjPLfi1z0nayV8V5tGhk9iYNl5g0VS6k6mUtVMma6KJY3fvc76G3J0-weQi0FtTN7QjVQX53IE7wDiRJ3Jx2fSlZ4Xwk-sw_JQteJnRn7BCab8B35gvI2IvoYWZSxh2quX9qPeu1BsKC0YztELYJI_cy3ADA0EXk-rvOIFuBI4QCF4ohDcPfL4Ntf_Ava3aMSY1csmLf49imMO4z5e7tU9RWX1Ijn3gtxUUg3alJC_0plnAGtb1YaQ57GeW7MZ_bR8SnhLWN7MULueU_3CO4HvirapcFMNUMYleYJlJ7vsQS7y-xNzwQE3nPDY6b6RddVXAg2bEDnb7ICRmkMFATYJVwwB-a_3svcyvbSZO93IzMZx11QYdVOVdEreNx_Q0qtMwRHfG2eyrSWdf9D1Depo8BsnVpFhN8Z1HoAvez_i8DLq11mRL0XTDvoJKmDYEgGV5TQMiJ13JelpBDAZswIY2pxyok0uDMFokuc375e34Zeoo4bC1LWYo6GNUQPO10TKNHypxeSkxwOrREJbYFrZgyVxTtwxuI65z_0dmcuzXa7-Lzg4B5vXw=w970-h970-s-no-gm?authuser=0);
-  background-size: 10px;
+  --theme-background-image: url(https://lh3.googleusercontent.com/pw/AP1GczMRuziMTVHTTrLpYetwlx3lTtweTLh_bISO54Ry_XewnQeNpzIhzfVQbt0ZAawpuUJ1aQ6GDlqc6T3PSTCI__aWgff3kCoo105N487oYaC_mpbzspsShR_D0NglD_HSM4ov6BgUimXk-UTsHX2d-7gDad-ELD6C1ci-zuYmuvE0Rb6q6lipkMYR9PhcdLGx93Apx774fROg4q2PPp3ouD9QIXoLH7k_tVcfHO9cEy4HeztL3yNllfMWwhRa2zSzKI8L_R9QihM4BYlJKe0pFXTZWVhbCfJR7yKOJA8uzQQ7Uu36FBe3Uumkpv2_kZdicZ6vnzlIkzF0h5MBl8KwBa9lsNw2JZ340mBX389fxvOi5Gd2Mflewq4SWLr8kyHllGnj6M54wxmFwrxQrv9BFuSiHk49SqhyceHZxgyviH3Uq4k-BqLNlpMg9etWDULbLwHOKu9rpKRR5pyh-2-DShkVyJJMBSNDky0sdVtZcQbghnUk03qCPEsJCj8qRkdcblDJMfgI3uT3o2xwAJ7o5p2FA1LxytyMFjbik6Yo6ORN_DoF77IKE-5OQPT1pllxmrbgSptQmAm5Q86B5mBQdWkpKL2hvqRUnUts7ElsSkqLbyygz23Ihx8Vo_-7R6Su3WNMd6eT40ZpwRNMY73JcJe3WiYq37L0Cd2046NxqxnmitgCXmTL19BXX07N9kz4dPKRAwVusp1bk8_7Nx3GXRtJVPPEJ5KQptko7phKOqOZ-WHxaoryQbua576TqZWePVUd-pRhn8R9ANQf4pO3c6AwQj7Zqofb_2MxyUUT6bn5fxmXPTwGmlL8VGYpoQWs4eT3jnR7aguJYxwMf5UJJAnT9_1vgb7qCnCqZy44-9mlkoXHOQIrlw_VqIayD1rSXm028s-v2Cze1SZwhCXx3Qno4UEyLSpq526f7ZbZVsEU7sqGfW_qqPjV4Jj_=w970-h970-s-no-gm?authuser=0);
+
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(255, 0, 0);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.4);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://lh3.googleusercontent.com/pw/AP1GczN2GDB1TqYVEkW60vzm5wMMHZBuX4H6nCeM_ODM3LixXdVSS1cZbtpli4zUcq4qfZqKwA7ShOC0ntdyGKSgfqSzbWs460MnStBZBMLYKzW2mvfK5w91qY5M4SR3Dg7Dac7z0Om1SY9Wt-h0-YvcSEl6CXaNXsSAgyCfItx_JZ6XqNmJ_4_UmTzC2mEAXTGpjDjDgDvOLPG3GPZyIPGLdDEbUK3D-iyDw4LuKBX-ktAWjIn6DiO1LGBV-LMh_aLOSav_cE0sBzudhKTl0O0FpSgS2siRIRZOzyyEhWAjjcXmE_6MDG1QBVLQaZqKq7zuMG9YC96c4OxLhPUMvNfvjbaXHNSKhdxsxtmIZ7ewnbl1Tr-KsEP-hTN-L2eqnqufIW_R7z_rsm0IOCI9eBxAB8c0UQGWNrW_adaE-qclxPXWoRAE_hdulN-KjBHnPDbFCs4TyEM9YHbjoCNheDoP-l3PRYkVEYHljdFsYQqBIIdFAESL4GP6DPCf3WY_k8kkSNhY4V9yu3QJUK_yjssrQgVPqg5gZkEUb1UzIGttiJoKG-X3vv9cfZPdlZffq-jZalayGkh6WGSniNg726oRg5nAlJin1YV3dye3FmJaY7UK2PFoKF-VVPbc4jl4mu_ZgpOU193VFLGwUJA7q63M-uxLT5beQSJDUM4q32yz6PDt2DT9T8nIrsZWHrfhanDRsM3l00b-hJwXzxgLWXTcm39Nj5jb928COJephaA25mj0kREnmmDBzn2WrGbrvjhE1yDg_G_-7XtryS_1MWBtjmTRwuSYlMFD0f_HNvAvVR3hLpu7H0iSV9pJ-V_juL6eTvsngcvnouWLECvRT3iD3W7hLMkPr54trRmGH8LVc4UJK4u8SkvFhzaSM-3z3qlL_yxVRgpYQf0YoNBopZyWycU=w970-h970-s-no-gm?authuser=0);
+  --home-icon-image: url(https://lh3.googleusercontent.com/pw/AP1GczPu09uZomLBdlwDL4te_JMVFW18KvHE7a8T1MHGokZkpsPdWwVOWJMO1i-E57brmja_pkF7zvevpeDV9Kd11aTZ1_M7EJo10U8APPXpnQrAqh0NKgz8WOO2kmIKYFrKo1kFP4dHeV52MrVyFtftUbzPo6111TNh-Rp6NSorQhR3Rv_vICl6PV4pcCMhnneK9U3q1TofGQ2YF9Dbvj4DHDbvr8RMMwB_nmK2LdAL6Ne5DZbI7kTCDM2nOc-fX8QWxAFoe8qwQBJOK5jzK0_F6ES8k92jH-F-sNJ0xoFWSMoP3SstaKUNgrphCOx6j80Fd3ESyMofstCEluN-oNjLf7HuqkSx6wLmaAO2qLqNLzk06W4hnJzN-4dMrfu8wqjWPzGxvp8aiy62liLdXTWm3VpwkxekFLNziJ9n38Sm2-aytrrDL5HUrFB_RlnY9GW4SCJ39rI82JEKzP4BLqoAWuEGF_pJoAYSX-FVanrmVk7rFYoAiuGRIBLprTO1I9BKYWxFIeIN2zJktr7XqtOIT9ps243kb4QgpV3eSSYGa6W5N5X8dhR4ocnehd3FyySqLTKSo43IxRb86UAbIJOlBFcu7rPxqzwBNQ-zjZ5eEmaNAgfUeQReUBp8-ZxlNDLTUVv1rCIg4yh3FlGlb9hfp_2fZLuj9PUREstwjnrDHPJDxsd-0YJEmvLhc1-HGUbBKKPQ_e1HYbhPRmWsFVGCtGWxHesK3cV3ER6euETW3tUox3ReaQ_Qe_z9kT6OoL46ybZE7PkbmkBnRnJ2ghzz0y9LIyFSVxDiJw_ijNxUjYEb58lLrLzVWb6D-zJnpxuR923sf-7TfBDeenk5MjNRNKBCOHbFTZ806v2QFt635MNWUZvvbRwYVdzfDsnfvpc8WY9vPQGxznGoOQxMezykGtqpZamygUXTkyX5Q3BlFJxA9QLD8Pj6isoHBn2C=s776-no?authuser=0);
 
   /*
     Change your friends icon image position
@@ -72,7 +72,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(255, 255, 255);
 
   /*
     Change the unread server animation.
@@ -143,8 +143,8 @@
     Channel Limit Number Color
   */
   --channel-limit-count-color: var(--channels-default);
-  --channel-limit-background-left: rgba(200, 200, 200, 0.1);
-  --channel-limit-background-right: rgba(200, 200, 200, 0.2);
+  --channel-limit-background-left: rgba(0, 0, 0, 0.7);
+  --channel-limit-background-right: rgba(0, 0, 0, 1 );
 
   /*
     Scrollbar Colors
@@ -182,7 +182,7 @@
   /*
     Channel colors
   */
-  --text-voice-channel-color: rgb(142, 146, 151);
+  --text-voice-channel-color: rgb(0, 0, 0);
   --text-voice-channel-hover-color: #dcddde;
   --text-voice-channel-selected-text-color: #fff;
   --unread-text-channel-color: #fff;
