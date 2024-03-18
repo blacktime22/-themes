@@ -21,8 +21,8 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
-
+  --theme-background-image: url(https://lh3.googleusercontent.com/pw/AP1GczPSEyo3X9JWIL1pplMgU0lfWJwF5qqraCBGd4RCgZvNhQoQgfm28LeUAb6WgwSpb5Rkl1WkJegWeIYzKLgT4erjTsGpWEsZQMq3vqxexsw_dt5Arc9r7gUwLTBlE3pEwe-J9NRYMEZTeBGe_Jmuceyw0qhGd549vLRL6-25-G_JEc_DIjDFg54Iawl9lFrIFJaCH7dMclEnl4CMtgvjAvdVH2SvizS_lLnWs5hNej-Xfv28rhzgzXf3qcxcQINGsj-NfrM49Q4K8V1MwYjfdyyLP6YBrAz5-udPIanNsyWcco-AmeBEQUcBnfzHGyZpKHqxQA3zD84E-SGpQjksEbWTbbg2yDbomjPLfi1z0nayV8V5tGhk9iYNl5g0VS6k6mUtVMma6KJY3fvc76G3J0-weQi0FtTN7QjVQX53IE7wDiRJ3Jx2fSlZ4Xwk-sw_JQteJnRn7BCab8B35gvI2IvoYWZSxh2quX9qPeu1BsKC0YztELYJI_cy3ADA0EXk-rvOIFuBI4QCF4ohDcPfL4Ntf_Ava3aMSY1csmLf49imMO4z5e7tU9RWX1Ijn3gtxUUg3alJC_0plnAGtb1YaQ57GeW7MZ_bR8SnhLWN7MULueU_3CO4HvirapcFMNUMYleYJlJ7vsQS7y-xNzwQE3nPDY6b6RddVXAg2bEDnb7ICRmkMFATYJVwwB-a_3svcyvbSZO93IzMZx11QYdVOVdEreNx_Q0qtMwRHfG2eyrSWdf9D1Depo8BsnVpFhN8Z1HoAvez_i8DLq11mRL0XTDvoJKmDYEgGV5TQMiJ13JelpBDAZswIY2pxyok0uDMFokuc375e34Zeoo4bC1LWYo6GNUQPO10TKNHypxeSkxwOrREJbYFrZgyVxTtwxuI65z_0dmcuzXa7-Lzg4B5vXw=w970-h970-s-no-gm?authuser=0);
+  background-size: 10px;
   /*
     Main Theme Color
   */
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://lh3.googleusercontent.com/pw/AP1GczN2GDB1TqYVEkW60vzm5wMMHZBuX4H6nCeM_ODM3LixXdVSS1cZbtpli4zUcq4qfZqKwA7ShOC0ntdyGKSgfqSzbWs460MnStBZBMLYKzW2mvfK5w91qY5M4SR3Dg7Dac7z0Om1SY9Wt-h0-YvcSEl6CXaNXsSAgyCfItx_JZ6XqNmJ_4_UmTzC2mEAXTGpjDjDgDvOLPG3GPZyIPGLdDEbUK3D-iyDw4LuKBX-ktAWjIn6DiO1LGBV-LMh_aLOSav_cE0sBzudhKTl0O0FpSgS2siRIRZOzyyEhWAjjcXmE_6MDG1QBVLQaZqKq7zuMG9YC96c4OxLhPUMvNfvjbaXHNSKhdxsxtmIZ7ewnbl1Tr-KsEP-hTN-L2eqnqufIW_R7z_rsm0IOCI9eBxAB8c0UQGWNrW_adaE-qclxPXWoRAE_hdulN-KjBHnPDbFCs4TyEM9YHbjoCNheDoP-l3PRYkVEYHljdFsYQqBIIdFAESL4GP6DPCf3WY_k8kkSNhY4V9yu3QJUK_yjssrQgVPqg5gZkEUb1UzIGttiJoKG-X3vv9cfZPdlZffq-jZalayGkh6WGSniNg726oRg5nAlJin1YV3dye3FmJaY7UK2PFoKF-VVPbc4jl4mu_ZgpOU193VFLGwUJA7q63M-uxLT5beQSJDUM4q32yz6PDt2DT9T8nIrsZWHrfhanDRsM3l00b-hJwXzxgLWXTcm39Nj5jb928COJephaA25mj0kREnmmDBzn2WrGbrvjhE1yDg_G_-7XtryS_1MWBtjmTRwuSYlMFD0f_HNvAvVR3hLpu7H0iSV9pJ-V_juL6eTvsngcvnouWLECvRT3iD3W7hLMkPr54trRmGH8LVc4UJK4u8SkvFhzaSM-3z3qlL_yxVRgpYQf0YoNBopZyWycU=w970-h970-s-no-gm?authuser=0);
 
   /*
     Change your friends icon image position
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
